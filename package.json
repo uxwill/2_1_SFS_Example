@@ -1,0 +1,14 @@
+{
+  "name": "myfirstserver",
+  "version": "1.0.0",
+  "description": "My first static file server built with nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Saunders 2015",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
